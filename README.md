@@ -1,4 +1,4 @@
 # GroovyFilesTask
-This is a sample Groovy Files Task
+This is a sample Groovy Files Task.
 
 
