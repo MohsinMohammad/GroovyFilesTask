@@ -1,2 +1,2 @@
 # GroovyFilesTask
-Example.12
+Example
