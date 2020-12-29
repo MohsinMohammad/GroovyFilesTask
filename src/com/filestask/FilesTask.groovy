@@ -20,6 +20,7 @@ class FilesTask{
             print "Exception is caught in fileKeyValues method\n"
         }
         // returns 'data' map
+        println "Returning data"
         data
     }
 
