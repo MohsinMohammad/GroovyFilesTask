@@ -1,2 +1,2 @@
-a=test2
-b=test2
+a=null
+b=test1
